@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(60, 150, 153);
+    text-align: center;
+    border: 3px black;
+    border-style: solid;
+    padding: 50px;
+    margin-left: 420px;
+    margin-right: 420px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
