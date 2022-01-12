@@ -1,1 +1,1 @@
-console.log('suprise mother fucker');
+console.log('suprise');
